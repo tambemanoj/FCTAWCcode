@@ -32,6 +32,10 @@ public class App {
     else if (age<20) {
 		System.out.println("no");
 	}
+    
+    else if (age<200) {
+		System.out.println("no");
+	}
 	
     	
     }
